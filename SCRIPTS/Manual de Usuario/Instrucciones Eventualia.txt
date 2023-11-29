@@ -1,0 +1,25 @@
+Instrucciones para Usuarios usar la aplicación de gestión de eventos:
+
+Apuntarse a un evento:
+Para apuntarse a un evento, haga clic en el evento en la lista de eventos de la página principal de la aplicación. A continuación, se le mostrará una página con información detallada sobre el evento. Para apuntarse al evento, haga clic en el botón "Apuntarse" y siga las instrucciones que aparecen en la pantalla.
+
+Desapuntarse a un evento:
+Si ya no puede asistir a un evento al que se ha apuntado previamente, puede desapuntarse del evento en la aplicación de gestión de eventos. Para desapuntarse de un evento, siga los siguientes pasos:
+Paso 1: Inicie sesión en la aplicación de gestión de eventos con su nombre de usuario y contraseña.
+Paso 2: Haga clic en el evento del que desea desapuntarse en la lista de eventos de la página principal de la aplicación.
+Paso 3: En la página de detalles del evento, busque el botón "Desapuntarse" y haga clic en él.
+Paso 4: La aplicación le pedirá que confirme que desea desapuntarse del evento. Haga clic en "Confirmar" para completar el proceso.
+Paso 5: Si ha desapuntado con éxito del evento, se le mostrará un mensaje de confirmación en la pantalla.
+Nota: Si tiene problemas para desapuntarse de un evento, o si no puede encontrar el botón "Desapuntarse" en la página del evento, póngase en contacto con el organizador del evento o el servicio de atención al cliente de la aplicación para obtener ayuda.
+
+
+Instrucciones para Organizadores usar la aplicación de gestión de eventos:
+
+Agregar un evento:
+Para agregar un evento, haga clic en el botón "Agregar evento" en la página principal de la aplicación. A continuación, se le pedirá que proporcione información sobre el evento, como su nombre, fecha, hora, lugar y descripción. Una vez que haya ingresado esta información, haga clic en el botón "Guardar" para agregar el evento a la lista de eventos.
+
+Editar un evento:
+Para editar un evento, haga clic en el evento en la lista de eventos de la página principal de la aplicación. A continuación, se le mostrará una página con información detallada sobre el evento. Para editar el evento, haga clic en el botón "Editar" y siga las instrucciones que aparecen en la pantalla. Asegúrese de hacer clic en el botón "Guardar" una vez que haya terminado de hacer los cambios.
+
+Eliminar un evento:
+Para eliminar un evento, haga clic en el evento en la lista de eventos de la página principal de la aplicación. A continuación, se le mostrará una página con información detallada sobre el evento. Para eliminar el evento, haga clic en el botón "Eliminar" y confirme que desea eliminar el evento.
