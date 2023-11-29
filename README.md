@@ -20,4 +20,4 @@ Marcel Torres Amaro
 
 Para obtener una guía detallada sobre cómo utilizar **LACUENTALAVIEJAPP**, puedes ver el vídeo explicativo en el siguiente enlace:
 
-[![Vídeo Explicativo](https://youtu.be/Uh_EnPm4NYM)
+[![Vídeo Explicativo]([https://youtu.be/Uh_EnPm4NYM](https://www.youtube.com/watch?v=Uh_EnPm4NYM)https://www.youtube.com/watch?v=Uh_EnPm4NYM)
